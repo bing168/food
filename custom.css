@@ -1,0 +1,53 @@
+@import  'http://fonts.googleapis.com/earlyaccess/notosanstc.css';
+body{
+    position: relative;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 100;
+}
+.introduce-bg1{
+    background-image: url("../images/introduce-bg1.jpg");
+}
+.dark{
+    background-color: dimgray;
+    height: 100px;
+    width: 100%;
+}
+.introduce-bg2{
+    background-color: pink;
+    padding: 60px;
+}
+
+.menuTB{
+    width:70%;
+}
+.lol{
+    width:70%;
+}
+.content{
+    display: none;
+}
+.progress{
+    width: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -250px;
+}
+#navspy{
+    background-color:rgba(255,255,255,0.6);
+}
+#navspy a{
+    color:#FFFFFF;
+}
+.banner-block{
+    position: absolute;
+    top: 40%;
+    left: -40%;
+}
+#about h1{
+    color:#c2c2c2;
+}
+#about .lead{
+    color:#858585;
+    margin-top:80px;   
+}
